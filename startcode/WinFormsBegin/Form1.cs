@@ -154,7 +154,6 @@ namespace DoolhofApp
         private void ResetZoektocht()
         {
             //reset coördinaten van ingang, uitgang en speler naar -1
-            throw new NotImplementedException(); 
         }
 
         /// <summary>
